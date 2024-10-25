@@ -1,0 +1,11 @@
+name = "HB Search Theme"
+license = "MIT"
+licenselink = "https://github.com/hbstack/theme-search/blob/main/LICENSE"
+description = "Single search page theme to find content from any sites."
+homepage = "https://hbstack.dev/themes/search/"
+demosite = "https://theme-search.hbstack.dev/"
+tags = ["Search", "Dark", "Light", "Multilingual", "Minimal", "Responsive", "Bootstrap", "Dark mode"]
+features = ["Search"]
+[author]
+    name = "HB Framework Authors"
+    homepage = "https://hbstack.dev/"

@@ -1,0 +1,23 @@
+# [module.hugoVersion]
+# min = "0.111.3"
+
+[[module.imports]]
+path = "github.com/hbstack/base"
+
+[[module.imports]]
+path = "github.com/hbstack/search"
+
+[params.hb]
+full_width = true
+
+[params.hb.header]
+sticky = false
+
+[params.search]
+modal_container = ''
+expand_results_meta = true
+
+# [params.hb.theme-search]
+
+# [params.hugopress.modules.hb-theme-search.hooks.body-end]
+# cacheable = true
