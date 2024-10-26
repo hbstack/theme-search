@@ -8,4 +8,4 @@
 - [Documentation](https://hbstack.dev/themes/search/)
 - [Live Demo](https://theme-search.hbstack.dev/)
 
-![Screenshot](images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/hbstack/theme-search/refs/heads/main/images/screenshot.png)
