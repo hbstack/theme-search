@@ -4,3 +4,8 @@
 ![Hugo Requirements](https://img.shields.io/badge/dynamic/json?color=important&label=requirements&query=requirements&logo=hugo&style=flat-square&url=https://api.razonyang.com/v1/hugo/modules/github.com/hbstack/theme-search)
 [![License](https://flat.badgen.net/github/license/hbstack/theme-search)](https://github.com/hbstack/theme-search/blob/main/LICENSE)
 [![Version](https://flat.badgen.net/github/tag/hbstack/theme-search)](https://github.com/hbstack/theme-search/tags)
+
+- [Documentation](https://hbstack.dev/themes/search/)
+- [Live Demo](https://theme-search.hbstack.dev/)
+
+![Screenshot](images/screenshot.png)
