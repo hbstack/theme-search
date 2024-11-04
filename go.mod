@@ -17,7 +17,7 @@ require (
 	github.com/hugomods/icons v0.6.5 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.8 // indirect
 	github.com/hugomods/search v0.18.1 // indirect
-	github.com/hugomods/search-index v0.1.0 // indirect
+	github.com/hugomods/search-index v0.1.1 // indirect
 	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
