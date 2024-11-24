@@ -7,7 +7,7 @@ require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/base v0.6.2 // indirect
 	github.com/hbstack/footer v0.4.1 // indirect
-	github.com/hbstack/hb v0.15.3 // indirect
+	github.com/hbstack/hb v0.16.0 // indirect
 	github.com/hbstack/header v0.16.3 // indirect
 	github.com/hbstack/search v0.2.2 // indirect
 	github.com/hugomods/base v0.7.2 // indirect
