@@ -3,7 +3,7 @@ module github.com/hbstack/theme-search
 go 1.22
 
 require (
-	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
+	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20800 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hbstack/base v0.6.2 // indirect
 	github.com/hbstack/footer v0.4.1 // indirect
@@ -20,6 +20,6 @@ require (
 	github.com/hugomods/search-index v0.1.0 // indirect
 	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
-	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
 )
